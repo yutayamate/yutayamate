@@ -1,5 +1,8 @@
-### Hi there 👋
+![hackthebox](https://www.hackthebox.eu/badge/image/145610)
 
+<!--
+### Hi there 👋
+-->
 <!--
 **yutayamate/yutayamate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
