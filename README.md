@@ -1,4 +1,4 @@
-[![hackthebox](https://www.hackthebox.eu/badge/image/145610)](https://app.hackthebox.eu/users/145610)
+[![hackthebox](https://www.hackthebox.eu/badge/image/145610)](https://app.hackthebox.eu/profile/145610)
 
 <!--
 ### Hi there 👋
