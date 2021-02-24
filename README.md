@@ -1,4 +1,5 @@
 [![hackthebox](https://www.hackthebox.eu/badge/image/145610)](https://app.hackthebox.eu/profile/145610)
+[![hackthebox_team](https://www.hackthebox.eu/badge/team/image/1611)](https://www.hackthebox.eu/home/teams/profile/1611)
 
 <!--
 ### Hi there 👋
