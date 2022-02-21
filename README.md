@@ -1,4 +1,4 @@
-[![web](https://img.shields.io/badge/https://-www.yutayamate.com-brightgreen.svg)](https://www.yutayamate.com)
+[![wwww](https://img.shields.io/website?label=www.yutayamate.com&url=https://www.yutayamate.com)](https://www.yutayamate.com)
 [![doi](https://zenodo.org/badge/doi/10.1093/bioinformatics/btz245.svg)](https://doi.org/10.1093/bioinformatics/btz245)
 
 [![hackthebox](https://www.hackthebox.eu/badge/image/145610)](https://app.hackthebox.eu/profile/145610)
