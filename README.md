@@ -1,3 +1,5 @@
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](yuta-yamate-041a12201)
+
 [![wwww](https://img.shields.io/website?label=www.yutayamate.com&url=https://www.yutayamate.com)](https://www.yutayamate.com)
 [![doi](https://zenodo.org/badge/doi/10.1093/bioinformatics/btz245.svg)](https://doi.org/10.1093/bioinformatics/btz245)
 
