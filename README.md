@@ -1,4 +1,5 @@
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuta-yamate)
+[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&labelColor=1877F2&logoColor=white)](https://www.facebook.com/yuta.yamate)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&labelColor=0077B5&logoColor=white)](https://www.linkedin.com/in/yuta-yamate)
 
 [![wwww](https://img.shields.io/website?label=www.yutayamate.com&url=https://www.yutayamate.com)](https://www.yutayamate.com)
 [![doi](https://zenodo.org/badge/doi/10.1093/bioinformatics/btz245.svg)](https://doi.org/10.1093/bioinformatics/btz245)
