@@ -8,6 +8,8 @@
 [![hackthebox](https://www.hackthebox.eu/badge/image/145610)](https://app.hackthebox.eu/profile/145610)
 [![hackthebox_team](https://www.hackthebox.eu/badge/team/image/1611)](https://www.hackthebox.eu/home/teams/profile/1611)
 
+[![github](https://img.shields.io/github/followers/yutayamate?label=Follow%20%40yutayamate&style=social)](https://github.com/yutayamate)
+
 <!--
 ### Hi there 👋
 -->
