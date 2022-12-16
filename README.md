@@ -1,4 +1,3 @@
-[![github](https://img.shields.io/github/followers/yutayamate?label=Follow%20%40yutayamate&style=social)](https://github.com/yutayamate)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&labelColor=1877F2&logoColor=white)](https://www.facebook.com/yuta.yamate)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yutayamate)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&labelColor=0077B5&logoColor=white)](https://www.linkedin.com/in/yuta-yamate)
@@ -8,6 +7,11 @@
 
 [![hackthebox](https://www.hackthebox.eu/badge/image/145610)](https://app.hackthebox.eu/profile/145610)
 [![hackthebox_team](https://www.hackthebox.eu/badge/team/image/1611)](https://www.hackthebox.eu/home/teams/profile/1611)
+
+## Articles
+
+- [2022年のOWASPとOWASP Top 10](https://gihyo.jp/article/2022/08/owasp2022) (*gihyo.jp*)
+- [Developing Tomorrow’s Cyber Security Professionals](https://rakuten.today/blog/developing-cyber-security-professionals.html) (*Rakuten.Today*)
 
 <!--
 ### Hi there 👋
