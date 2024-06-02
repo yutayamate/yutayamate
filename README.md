@@ -9,6 +9,8 @@
 [![hackthebox](https://www.hackthebox.eu/badge/image/145610)](https://app.hackthebox.eu/profile/145610)
 [![hackthebox_team](https://www.hackthebox.eu/badge/team/image/1611)](https://www.hackthebox.eu/home/teams/profile/1611)
 
+[![oscp](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/105191033)](https://www.credential.net/f336acea-e4ae-4aaf-8536-d4373db71a55#gs.a9ygvz)
+
 ## Articles
 
 - [2022年のOWASPとOWASP Top 10](https://gihyo.jp/article/2022/08/owasp2022) (*gihyo.jp*)
