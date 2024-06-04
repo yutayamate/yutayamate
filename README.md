@@ -14,6 +14,7 @@
 
 - [2022年のOWASPとOWASP Top 10](https://gihyo.jp/article/2022/08/owasp2022) (*gihyo.jp*)
 - [Developing Tomorrow’s Cyber Security Professionals](https://rakuten.today/blog/developing-cyber-security-professionals.html) (*Rakuten.Today*)
+- [脆弱性報告](https://scan.netsecurity.ne.jp/special/3629/recent/山手雄太氏による脆弱性報告) (*ScanNetSecurity*)
 
 <!--
 ### Hi there 👋
