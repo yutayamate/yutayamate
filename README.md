@@ -3,11 +3,10 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&labelColor=0077B5&logoColor=white)](https://www.linkedin.com/in/yuta-yamate)
 [![twitter](https://img.shields.io/twitter/follow/yutayamate)](https://twitter.com/yutayamate)
 
-[![wwww](https://img.shields.io/website?label=yutayamate.com&url=https://yutayamate.com)](https://yutayamate.com)
+[![www](https://img.shields.io/website?label=yutayamate.com&url=https://yutayamate.com)](https://yutayamate.com)
 [![doi](https://zenodo.org/badge/doi/10.1093/bioinformatics/btz245.svg)](https://doi.org/10.1093/bioinformatics/btz245)
 
 [![hackthebox](https://www.hackthebox.eu/badge/image/145610)](https://app.hackthebox.eu/profile/145610)
-[![hackthebox_team](https://www.hackthebox.eu/badge/team/image/1611)](https://www.hackthebox.eu/home/teams/profile/1611)
 
 [![oscp](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/105191033)](https://www.credential.net/f336acea-e4ae-4aaf-8536-d4373db71a55#gs.a9ygvz)
 
