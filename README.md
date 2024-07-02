@@ -1,9 +1,8 @@
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&labelColor=1877F2&logoColor=white)](https://www.facebook.com/yuta.yamate)
 [![instagram](https://img.shields.io/badge/Instagam-E4405F?style=flat&logo=instagram&labelColor=E4405F&logoColor=white)](https://www.instagram.com/yuta.yamate)
 [![threads](https://img.shields.io/badge/Threads-000000?style=flat&logo=threads&labelColor=000000&logoColor=white)](https://threads.net//yuta.yamate)
-
-[![orcid](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=ORCID&labelColor=A6CE39&logoColor=white)](https://orcid.org/0000-0001-9994-4340)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&labelColor=0077B5&logoColor=white)](https://www.linkedin.com/in/yuta-yamate)
+[![orcid](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=ORCID&labelColor=A6CE39&logoColor=white)](https://orcid.org/0000-0001-9994-4340)
 [![discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&labelColor=5865F2&logoColor=white)](https://discordapp.com/users/738723550264819742)
 [![twitter](https://img.shields.io/twitter/follow/yutayamate)](https://twitter.com/yutayamate)
 
