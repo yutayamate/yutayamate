@@ -7,6 +7,7 @@
 
 [![www](https://img.shields.io/website?label=yutayamate.com&url=https://yutayamate.com)](https://yutayamate.com)
 [![doi](https://zenodo.org/badge/doi/10.1093/bioinformatics/btz245.svg)](https://doi.org/10.1093/bioinformatics/btz245)
+[![cve](https://img.shields.io/badge/CVE--2024--32988-HIGH%EF%BD%A57.5-red)](https://www.cve.org/CVERecord?id=CVE-2024-32988)
 
 [![hackthebox](https://www.hackthebox.eu/badge/image/145610)](https://app.hackthebox.eu/profile/145610)
 
