@@ -5,9 +5,9 @@
 [![discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&labelColor=5865F2&logoColor=white)](https://discordapp.com/users/738723550264819742)
 [![twitter](https://img.shields.io/twitter/follow/yutayamate)](https://twitter.com/yutayamate)
 
-[![www](https://img.shields.io/website?label=yutayamate.com&url=https://yutayamate.com)](https://yutayamate.com)
-[![doi](https://zenodo.org/badge/doi/10.1093/bioinformatics/btz245.svg)](https://doi.org/10.1093/bioinformatics/btz245)
 [![cve](https://img.shields.io/badge/CVE--2024--32988-HIGH%EF%BD%A57.5-red)](https://www.cve.org/CVERecord?id=CVE-2024-32988)
+[![doi](https://zenodo.org/badge/doi/10.1093/bioinformatics/btz245.svg)](https://doi.org/10.1093/bioinformatics/btz245)
+[![www](https://img.shields.io/website?label=yutayamate.com&url=https://yutayamate.com)](https://yutayamate.com)
 
 [![hackthebox](https://www.hackthebox.eu/badge/image/145610)](https://app.hackthebox.eu/profile/145610)
 
