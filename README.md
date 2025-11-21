@@ -11,5 +11,5 @@
 
 [![hackthebox](https://www.hackthebox.eu/badge/image/145610)](https://app.hackthebox.eu/profile/145610)
 
-[![oscp](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/105191033)](https://www.credential.net/f336acea-e4ae-4aaf-8536-d4373db71a55#gs.a9ygvz)
-![gcsa](https://images.credly.com/images/244a6e6e-467c-456f-b9f8-426e7f587a82/image.png){width=150}
+<a href="https://www.credential.net/f336acea-e4ae-4aaf-8536-d4373db71a55#gs.a9ygvz" target="_blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/105191033" width="150"></a>
+<a href="https://www.credly.com/earner/earned/badge/9a3ab57c-f869-46a0-8bcc-5365e7ab0786" target="_blank"><img src="https://images.credly.com/images/244a6e6e-467c-456f-b9f8-426e7f587a82/image.png" width="150"></a>
