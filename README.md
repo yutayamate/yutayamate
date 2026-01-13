@@ -4,6 +4,7 @@
 [![orcid](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=ORCID&labelColor=A6CE39&logoColor=white)](https://orcid.org/0000-0001-9994-4340)
 [![discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&labelColor=5865F2&logoColor=white)](https://discordapp.com/users/738723550264819742)
 [![twitter](https://img.shields.io/twitter/follow/yutayamate)](https://twitter.com/yutayamate)
+[![applemusic]([https://img.shields.io/badge/Apple_Music-FF0436?style=flat&logo=apple-music&logoColor=white)](https://music.apple.com/profile//yutayamate)
 
 [![cve](https://img.shields.io/badge/CVE--2024--32988-HIGH%EF%BD%A57.5-red)](https://www.cve.org/CVERecord?id=CVE-2024-32988)
 [![doi](https://zenodo.org/badge/doi/10.1093/bioinformatics/btz245.svg)](https://doi.org/10.1093/bioinformatics/btz245)
