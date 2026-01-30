@@ -15,3 +15,10 @@
 <a href="https://credentials.offsec.com/f336acea-e4ae-4aaf-8536-d4373db71a55" target="_blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/105191033" width="150"></a>
 <a href="https://www.credly.com/badges/9a3ab57c-f869-46a0-8bcc-5365e7ab0786/public_url" target="_blank"><img src="https://images.credly.com/images/244a6e6e-467c-456f-b9f8-426e7f587a82/image.png" width="150"></a>
 <a href="https://www.credly.com/badges/f9c5d158-03db-46b7-b330-c2dd763766de/public_url" target="_blank"><img src="https://images.credly.com/images/efd77bd2-ab34-4323-b427-47b3e7136029/image.png" width="150"></a>
+
+## Articles
+
+- [2022年のOWASPとOWASP Top 10](https://gihyo.jp/article/2022/08/owasp2022) (*gihyo.jp*)
+- [Developing Tomorrow’s Cyber Security Professionals](https://rakuten.today/blog/developing-cyber-security-professionals.html) (*Rakuten.Today*)
+- [脆弱性報告](https://scan.netsecurity.ne.jp/special/3629/recent/山手雄太氏による脆弱性報告) (*ScanNetSecurity*)
+- ["見えざる分断"を超えてセキュリティ向上に挑む熱い戦い　「Hardening 2025」レポート](https://www.lycorp.co.jp/ja/story/20251118/hardening2025.html)(*LINEヤフーストーリー*)
